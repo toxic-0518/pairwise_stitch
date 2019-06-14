@@ -6,7 +6,7 @@ A python implementation for multi-page tiff stitching.
 ### Environment
 ```yaml
 Pyhton >= 3.6
-OpenCV (3.3 <= version <= 3.4.16) ( with opencv-contrib)`
+OpenCV (3.3 <= version <= 3.4.16) ( with opencv-contrib)
 numpy
 ```
 
@@ -40,4 +40,23 @@ then run
 ```bash
 python pairwise_stitch.py
 ```
+
+
+### Some Examples
+
+SIFT matching result:
+
+![image](https://github.com/toxic-0518/pairwise_stitch/blob/master/images/1.png)
+![image](https://github.com/toxic-0518/pairwise_stitch/blob/master/images/2.png)
+![image](https://github.com/toxic-0518/pairwise_stitch/blob/master/images/3.png)
+![image](https://github.com/toxic-0518/pairwise_stitch/blob/master/images/4.png)
+
+stitch result:
+
+![image](https://github.com/toxic-0518/pairwise_stitch/blob/master/images/result_1.png)
+![image](https://github.com/toxic-0518/pairwise_stitch/blob/master/images/result_2.png)
+![image](https://github.com/toxic-0518/pairwise_stitch/blob/master/images/result_3.png)
+![image](https://github.com/toxic-0518/pairwise_stitch/blob/master/images/result_4.png)
+
+
 
