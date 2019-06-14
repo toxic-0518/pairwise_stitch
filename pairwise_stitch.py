@@ -1,7 +1,7 @@
 # !/usr/bin/env pyhton
 # encoding: utf-8
 # File: pairwise_stitch.py
-# Author: Xie Chang
+# Author: Toxic
 # Created on 2019/6/13 下午4:36
 
 import cv2
