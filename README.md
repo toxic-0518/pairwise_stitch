@@ -5,7 +5,7 @@ A python implementation for multi-page tiff stitching.
 
 ### Environment
 ```yaml
-Pyhton >= 3.6
+Python >= 3.6
 OpenCV (3.3 <= version <= 3.4.16) ( with opencv-contrib)
 numpy
 ```
