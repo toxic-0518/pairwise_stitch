@@ -15,4 +15,4 @@ For your convenience, I recommend you use anaconda to build enviromnment.
 miniconda documentation: [link](https://docs.conda.io/en/latest/miniconda.html)
 
 ### Test data (Optional)
-链接: https://pan.baidu.com/s/1X6-DxoKUwHy9y3ZHMdNfHQ 提取码: pbtd 
+link: [`https://pan.baidu.com/s/1X6-DxoKUwHy9y3ZHMdNfHQ`](https://pan.baidu.com/s/1X6-DxoKUwHy9y3ZHMdNfHQ).  access code: `pbtd` 
