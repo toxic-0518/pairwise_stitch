@@ -17,7 +17,7 @@ miniconda documentation: [link](https://docs.conda.io/en/latest/miniconda.html)
 ### Test Data (Optional)
 link: [`https://pan.baidu.com/s/1X6-DxoKUwHy9y3ZHMdNfHQ`](https://pan.baidu.com/s/1X6-DxoKUwHy9y3ZHMdNfHQ).  access code: `pbtd` 
 
-### Useage
+## Useage
 
 ```sh
 git clone https://github.com/toxic-0518/pairwise_stitch.git
