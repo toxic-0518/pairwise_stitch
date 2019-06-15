@@ -42,7 +42,7 @@ python pairwise_stitch.py
 ```
 
 
-### Some Examples
+## Some Examples
 
 SIFT matching result:
 
